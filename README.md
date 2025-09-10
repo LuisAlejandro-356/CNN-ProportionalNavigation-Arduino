@@ -3,7 +3,6 @@ A CNN is developed in TensorFlow to classify aircraft using LiDAR-based grayscal
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/LuisAlejandro-356/CNN-ProportionalNavigation-Arduino/refs/heads/main/images/Input%20example.png" alt="Scanning and image processing" width="600"/>
-</p>
   <img src="https://raw.githubusercontent.com/LuisAlejandro-356/CNN-ProportionalNavigation-Arduino/refs/heads/main/images/Vuelo3_100muestras_50FPS_elev%3D20%2C%20azim%20%3D%20-120.gif" alt="Flight type simulation 3" width="600"/>
 </p>
 
