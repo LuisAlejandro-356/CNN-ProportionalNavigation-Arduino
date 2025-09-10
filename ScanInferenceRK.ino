@@ -1,5 +1,4 @@
 /* 
-  Partimos de: 1_EscaneoyVuelos
   Escanea --> Procesa la imagen --> Inferencia en Python --> Simulacion de vuelo
 
   Vamos a ir desilenciando los fragmentos pertinentes a la interefencia poco a poco:
@@ -7,7 +6,7 @@
   - Desilenciar la parte Setup: Serial.println("Initializing ....    Le cuesta compilar.  PERO inesperadamente, sigue funcionando y NO ha fallado en la transmision
   - Desilenciar la parte Loop
 
-  FUNCIONAAAAAAAAAAAAAAAAAA HACE LA INFERENCIA EN EL ARDUINOOOOOOO
+  FUNCIONA HACE LA INFERENCIA EN EL ARDUINOOOOOOO
   
 
 */
